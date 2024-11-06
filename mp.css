@@ -1,0 +1,74 @@
+body{
+    text-align: center;
+    display: grid;
+    justify-content: center;
+    background-color: blanchedalmond;
+    
+}
+
+.main{
+    display: flex;
+    justify-content: space-evenly;
+    height: 500px;
+    width: 500px;   
+}
+
+.div{
+    border: 5px solid black;
+    height: 200px;
+    width: 200px;
+    margin: 25px;
+    border-radius: 20%;
+}
+
+.in-div{
+    height: 180px;
+    width: 180px;
+    border-radius: 20%;
+    border: 1px solid black;
+    margin: 10px;
+}
+
+#r{
+    background-color: red;
+}
+
+#b{
+    background-color: blue;
+}
+
+#y{
+    background-color: yellow;
+}
+
+#g{
+    background-color: green;
+}
+
+.red{
+    background-color: red;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.green{
+    background-color: green;
+}
+
+.flash{
+    background-color: whitesmoke;
+}
+
+.flash2{
+    background-color: whitesmoke;
+}
+
+.gameend{
+    background-color: red;
+}
